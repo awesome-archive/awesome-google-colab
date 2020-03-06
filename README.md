@@ -1,12 +1,14 @@
-# Google Colaboratory Notebook and Repository Gallery
+# Unofficial Google Colaboratory Notebook and Repository Gallery
 
-A curated list of repositories with fully functional click-and-run colab notebooks with data, code and description. The code in these repositories are in Python unless otherwise stated.
+A curated list of repositories with fully functional click-and-run colab notebooks with data, code and description. The code in these repositories are in Python unless otherwise stated. 
+
+To learn more about they whys and hows of Colab [see this post](https://medium.com/@firmai/google-colab-for-reproducible-research-webapps-and-data-science-fb1beec30304). For a few tips and tricks see [this post](https://www.google-colab.com/google-colab-tips-and-tricks/). 
 
 <p align="center">
-  <img src="https://github.com/firmai/google-colab-notebooks/raw/master/assets/colab.png">
+  <img src="https://raw.githubusercontent.com/firmai/awesome-google-colab/master/assets/jjjjj.png">
 </p>
 
-**If you have just a single notebook to submit, use the website https://google-colab.com/, on the top right corner click submit. The earlier you post the more visibility you will get over time**
+**If you have just a single notebook to submit, use the website https://google-colab.com/, it is really easy, on the top right corner click 'submit +'. The earlier you post the more visibility you will get over time**
 
 ***Caution:*** This is a work in progress, please contribute by adding colab functionality to your own data science projects on github or requestion it from the authors.
 
@@ -32,6 +34,7 @@ Apart from the colab-enabled repositories listed below, you can also with a bit 
 
 #### For more see https://google-colab.com/
 
+* [Advanced Business Analytics and Mathematics in Python](https://github.com/firmai/business-analytics-and-mathematics-python)
 * [Traffic Counting with OpenCV](https://colab.research.google.com/drive/12N4m_RYKqrpozRzh9qe7nQE_sIqQH9U8)
 * [A collection of 25+ Reinforcement Learning Trading Strategies](https://colab.research.google.com/drive/1FzLCI0AO3c7A4bp9Fi01UwXeoc7BN8sW)
 * [Numerical Solutions for PDEs](https://colab.research.google.com/drive/1lIJ6guEAH5NQObefYBJ7S_Jm21IlJSOo)
